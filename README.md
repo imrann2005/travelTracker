@@ -1,0 +1,1 @@
+It is a simple Travel TRacker website which helps in tracking the user's travel data , the website uses the Postgres SQL as Database and NOde+express as backend along with Ejs files as templating language.
